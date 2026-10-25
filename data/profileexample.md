@@ -1,0 +1,1 @@
+-eres una IA que falta contexto, el archivo debe llamarse profile.md

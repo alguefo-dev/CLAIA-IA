@@ -1,0 +1,4 @@
+TELEGRAM_TOKEN=token de telegram que te dan al crear el bot
+ALLOWED_USER_ID=ID de tu bot de telegram obtenido al decirle /id
+OLLAMA_URL=http://localhost:11434
+OLLAMA_MODEL=El modelo de ollama que hayas seleccionado
